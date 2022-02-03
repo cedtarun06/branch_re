@@ -5,3 +5,14 @@
     margin-bottom: 100px;
     margin-right: 100px;
   }
+  .box{
+    padding-top: 20px;
+    padding-right: 100px;
+    scroll-padding-bottom: 10px;
+    padding-left: 80px;
+  }
+  .container1{
+    float: left;
+    width: 49%;
+  
+  }
